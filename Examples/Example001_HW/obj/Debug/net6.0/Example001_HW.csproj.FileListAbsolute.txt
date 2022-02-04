@@ -1,0 +1,15 @@
+/Users/maligin/Desktop/C#/Examples/Example001_HW/bin/Debug/net6.0/Example001_HW
+/Users/maligin/Desktop/C#/Examples/Example001_HW/bin/Debug/net6.0/Example001_HW.deps.json
+/Users/maligin/Desktop/C#/Examples/Example001_HW/bin/Debug/net6.0/Example001_HW.runtimeconfig.json
+/Users/maligin/Desktop/C#/Examples/Example001_HW/bin/Debug/net6.0/Example001_HW.dll
+/Users/maligin/Desktop/C#/Examples/Example001_HW/bin/Debug/net6.0/ref/Example001_HW.dll
+/Users/maligin/Desktop/C#/Examples/Example001_HW/bin/Debug/net6.0/Example001_HW.pdb
+/Users/maligin/Desktop/C#/Examples/Example001_HW/obj/Debug/net6.0/Example001_HW.csproj.AssemblyReference.cache
+/Users/maligin/Desktop/C#/Examples/Example001_HW/obj/Debug/net6.0/Example001_HW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maligin/Desktop/C#/Examples/Example001_HW/obj/Debug/net6.0/Example001_HW.AssemblyInfoInputs.cache
+/Users/maligin/Desktop/C#/Examples/Example001_HW/obj/Debug/net6.0/Example001_HW.AssemblyInfo.cs
+/Users/maligin/Desktop/C#/Examples/Example001_HW/obj/Debug/net6.0/Example001_HW.csproj.CoreCompileInputs.cache
+/Users/maligin/Desktop/C#/Examples/Example001_HW/obj/Debug/net6.0/Example001_HW.dll
+/Users/maligin/Desktop/C#/Examples/Example001_HW/obj/Debug/net6.0/ref/Example001_HW.dll
+/Users/maligin/Desktop/C#/Examples/Example001_HW/obj/Debug/net6.0/Example001_HW.pdb
+/Users/maligin/Desktop/C#/Examples/Example001_HW/obj/Debug/net6.0/Example001_HW.genruntimeconfig.cache
