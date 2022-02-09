@@ -1,8 +1,7 @@
 ﻿// Показать четные числа от 1 до N
-// подскажите пожалуйста как организовать ввод с целого числа с терминала
-//Console.Write("введите количество чисел N: ");
-//int N = Console.ReadLine();
-int N=10;
+Console.Write("введите количество чисел N: ");
+string? Nstr = Console.ReadLine();
+int N = int.Parse(Nstr);
 int I = 0;
 while (I < N)
 {
