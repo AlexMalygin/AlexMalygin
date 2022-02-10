@@ -2,7 +2,8 @@
 
 int GetRandomNumber()
 {
-    int randomNumb = new Random().Next(1,8); // День недели от одного до семи
+    int randomNumb = new Random().Next(1,8); // День недели от одного до семи, если 
+                                                //Если ввести от 1 до 31 то сможем вычислить выходные дни месяца
     return randomNumb;
 }
 
